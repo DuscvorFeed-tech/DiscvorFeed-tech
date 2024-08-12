@@ -73,11 +73,11 @@ If you witness or experience behavior that violates this code of conduct, please
 <strong>Consequences of Violations:</strong>
 
 Violations of this code of conduct may result in consequences, including but not limited to:
+* Warnings
+* Removal of contributions
+* Suspension of access to the project
+* Banning from the project
 
-Warnings
-Removal of contributions
-Suspension of access to the project
-Banning from the project
 We reserve the right to take appropriate action in response to any violation of this code of conduct.
 
 <strong>Thank you for helping to create a positive and productive environment for everyone.</strong>
